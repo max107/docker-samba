@@ -1,4 +1,4 @@
-IMAGE=registry.gitlab.com/falaleev/home-cloud/samba
+IMAGE=maxfalaleev1/samba
 
 .PHONY: build
 build:
